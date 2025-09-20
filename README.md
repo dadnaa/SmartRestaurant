@@ -56,6 +56,8 @@ python app.py
 
 Make sure the Flask server is running before testing AI-powered features.
 
+
+
 🛠️ Tech Stack
 
 Frontend: React.js, JavaScript
